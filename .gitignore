@@ -1,0 +1,13 @@
+# Yocto Build Artifacts
+build/tmp/
+build/downloads/
+build/sstate-cache/
+build/cache/
+build/bitbake-cookerdaemon.log
+
+# Python
+*.pyc
+__pycache__/
+
+# Sources (Managed by setup script)
+sources/
