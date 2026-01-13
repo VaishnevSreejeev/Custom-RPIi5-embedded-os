@@ -44,5 +44,4 @@ bzcat tmp/deploy/images/raspberrypi5/core-image-base-raspberrypi5.wic.bz2 | sudo
 ```
 
 ## Author
-[Your Name]
-Intern, Embedded Systems Engineer
+Vaishnev Sreejeev
